@@ -45,7 +45,7 @@ class Postform extends Component {
             <textarea style={{borderColor: 'black'}} name="body" onChange={this.onChange} value={this.state.boby} />
           </div>
           <br />
-          <button type="submit">Submitt</button>
+          <button type="submit">Submit</button>
         </form>
       </div>
     )
